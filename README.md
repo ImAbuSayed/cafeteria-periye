@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cafeteria-periye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cafeteria Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafeteria-periye/) |
+| **Get License** | [License this song: Cafeteria Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cafeteria-periye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dccd6d92dbb689abe95cf89529469a9f63d25fbd0fe480e65b474b1af76e84f9` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
