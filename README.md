@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cafeteria পেরিয়ে, নামলো এই মায়াবী রাত
+> তোমার ঐ উষ্ণ ছোঁয়ায়, হতে চাই কুপোকাত
+> অন্ধকারের এই গভীরে, জ্বেলে দাও বুনো আগুন
+> আমার এই তৃষ্ণার্ত মনে, জাগিয়ে দাও প্রেমের ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
